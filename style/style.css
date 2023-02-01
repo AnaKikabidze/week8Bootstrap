@@ -14,3 +14,13 @@
 .div_button {
   padding: 20px;
 }
+.card-img-top {
+  max-width: 20%;
+}
+.container_footer {
+  background-color: rgb(85, 84, 82);
+  color: aliceblue;
+}
+.card {
+  max-width: 90%;
+}
